@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'Calamity Jane NF';
+  src: local("Calamity Jane NF"),
+    url(../fonts/font/calamity_jane_nf.woff2) format("woff2"),
+    url(../fonts/font/calamity_jane_nf.woff) format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+	font-family: 'Montserrat';
+  src: local("Montserrat"),
+    url(../fonts/font/Montserrat.woff2) format("woff2"),
+    url(../fonts/font/Montserrat.woff) format("woff");
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
